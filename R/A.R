@@ -17,3 +17,5 @@ switch(where,
 
 assign('.datadir', .datadir, envir = .GlobalEnv)
 assign('.workdir', .workdir, envir = .GlobalEnv)
+
+#### test
